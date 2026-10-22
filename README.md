@@ -19,7 +19,6 @@ I'm a Software Engineer based in Bengaluru, India, working across backend develo
 
 ### Connect
 
-- **Portfolio:** https://prathee-s.github.io/Prathibha-S/
 - **GitHub:** https://github.com/Prathee-s
 - **LinkedIn:** https://www.linkedin.com/in/prathibha-s7/
 - **Email:** prathisdeo@gmail.com
